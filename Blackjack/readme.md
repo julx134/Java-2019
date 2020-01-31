@@ -29,7 +29,7 @@ easier to program.)
 
  	-> A Jack, Queen or King has a score of 10.
 
- -> All other cards have a score equal to their rank. (For example, the 4 of Hearts or the 4
+ 	-> All other cards have a score equal to their rank. (For example, the 4 of Hearts or the 4
 of any suit have a rank of 4 and a score of 4.)
 
 3. The House will obtain additional cards until its score is 17 or more.
