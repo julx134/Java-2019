@@ -22,11 +22,12 @@ down. So you can see only one of the House's cards and it can see only one of yo
 you and the House can discretely peek at your face down cards.
 
 2. Each card has a score as follows:
- -> An Ace has a score of 1. (This differs from real Blackjack where the Ace can have a
+
+ 	-> An Ace has a score of 1. (This differs from real Blackjack where the Ace can have a
 score of either 1 or 11 at the player's discretion. The simplified version for this lab is
 easier to program.)
 
- -> A Jack, Queen or King has a score of 10.
+ 	-> A Jack, Queen or King has a score of 10.
 
  -> All other cards have a score equal to their rank. (For example, the 4 of Hearts or the 4
 of any suit have a rank of 4 and a score of 4.)
@@ -38,10 +39,10 @@ you will asked again. This continues until you say "no". This ends the game.
 
 5. All cards are now turned face-up and the scores of you and the House are calculated.
 
- -> You lose if your score is more than 21 (no matter what the House's score is).
+ 	-> You lose if your score is more than 21 (no matter what the House's score is).
 
- -> You lose if your score is the same as the House's.
+	 -> You lose if your score is the same as the House's.
 
 You win if:
 
- -> You don't go over 21 and the House does go over 21
+ 	-> You don't go over 21 and the House does go over 21
