@@ -11,7 +11,9 @@ It will have two classes - BlackJack and Card
 -> The SimpleUI class will implement UserInterface in order to better the output of the code to the console.
 
 
+
 How to Play:
+
 Blackjack is the most popular casino gambling game in the world. (Note: the rules of the game favour
 the casino. The Casino is guaranteed to win in the long run.) Here's how it works:
 
@@ -23,7 +25,9 @@ you and the House can discretely peek at your face down cards.
  -> An Ace has a score of 1. (This differs from real Blackjack where the Ace can have a
 score of either 1 or 11 at the player's discretion. The simplified version for this lab is
 easier to program.)
+
  -> A Jack, Queen or King has a score of 10.
+
  -> All other cards have a score equal to their rank. (For example, the 4 of Hearts or the 4
 of any suit have a rank of 4 and a score of 4.)
 
@@ -33,8 +37,11 @@ of any suit have a rank of 4 and a score of 4.)
 you will asked again. This continues until you say "no". This ends the game.
 
 5. All cards are now turned face-up and the scores of you and the House are calculated.
+
  -> You lose if your score is more than 21 (no matter what the House's score is).
+
  -> You lose if your score is the same as the House's.
 
 You win if:
+
  -> You don't go over 21 and the House does go over 21
